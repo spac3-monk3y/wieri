@@ -1,0 +1,8 @@
+libs/*
+*.a
+
+CMakeCache.txt
+CMakeFiles
+*.cmake
+Makefile
+wieri
